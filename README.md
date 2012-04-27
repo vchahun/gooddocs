@@ -1,0 +1,4 @@
+gooddocs
+========
+
+Good documentations
